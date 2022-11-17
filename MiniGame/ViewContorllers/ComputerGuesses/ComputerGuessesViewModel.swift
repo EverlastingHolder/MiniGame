@@ -31,8 +31,8 @@ extension ComputerGuessesViewController {
         
         private func displayAlert() {
             let alert = UIAlertController(
-                title: "Что-то пошло не так.",
-                message: "Возможно вы перепутали кнопку или не остановились вовремя. Попробуем еще раз ?",
+                title: "Something went wrong.",
+                message: "Maybe you got the button wrong or you didn't stop in time. Shall we try again?",
                 preferredStyle: .alert)
             let action = UIAlertAction(title: "Ok", style: .default) { _ in
                 self.model.defaultValue()
