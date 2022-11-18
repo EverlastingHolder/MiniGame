@@ -107,7 +107,7 @@
 				097A8EE029250409007D8A57 /* Extension */,
 				095573392924BC6400088A25 /* Storyboard */,
 				095573382924BBD600088A25 /* Styling */,
-				09AC336F29262832008F201D /* ViewContorllers */,
+				09AC336F29262832008F201D /* ViewControllers */,
 			);
 			path = MiniGame;
 			sourceTree = "<group>";
@@ -169,7 +169,7 @@
 			path = Score;
 			sourceTree = "<group>";
 		};
-		09AC336F29262832008F201D /* ViewContorllers */ = {
+		09AC336F29262832008F201D /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
 				097A8EE7292506B3007D8A57 /* ComputerGuesses */,
@@ -178,7 +178,7 @@
 				095DBEB72924A7B800F462E5 /* MainViewController.swift */,
 				097A8EE9292506D6007D8A57 /* Score */,
 			);
-			path = ViewContorllers;
+			path = ViewControllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
